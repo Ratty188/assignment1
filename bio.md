@@ -1,6 +1,7 @@
 Hobbies/Interests - Golf, video games, brewing beer.
    -I have a wife and two cats and live in Atlanta, Ga.
    -My wife and I are planning to leave Atlanta at the end of January for her job.
+   -We are thinking that we will end up in Knoxville, TN.
 
 ---------------
 Programming Background
